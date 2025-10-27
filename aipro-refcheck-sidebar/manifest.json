@@ -1,0 +1,25 @@
+{
+  "manifest_version": 3,
+  "name": "AI Pro Refcheck Sidebar",
+  "version": "1.1",
+  "description": "Prepare references check text for Elsevier AI Pro with abstract word count.",
+  "permissions": [
+    "sidePanel",
+    "clipboardWrite",
+    "tabs"
+  ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Open AI Pro Refcheck"
+  },
+  "side_panel": {
+    "default_path": "panel.html"
+  },
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  }
+}
