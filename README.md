@@ -27,5 +27,8 @@ This extension **saves time** by avoiding manual entry of prompts and informatio
 
 Once you have a **broad overview** of the self-citations and irrelevant references, you can go through the manuscript and locate the references flagged by AIPro.  
 
-> 💡 **Recommendation:**  
+> **Recommendation:**  
 > Manually review the citations as well to identify any **irrelevant or incorrectly added references**.
+---
+
+<img width="377" height="911" alt="image" src="https://github.com/user-attachments/assets/b183568a-c6db-40f8-ba6b-5a9ce98ab1f6" />
